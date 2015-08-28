@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/mt/AndroidStudioProjects/MoboRemote/app/build/intermediates/pre-dexed/release/support-annotations-23.0.0-f0253fcf953d3bb6c48d87fbe2d30c5b3e528313.jar" />
+    </item>
+    <item
+        jar="/home/mt/AndroidStudioProjects/MoboRemote/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/mt/AndroidStudioProjects/MoboRemote/app/build/intermediates/pre-dexed/release/classes-53787ebc6170b0ed27a1108c557000fd88d3b1e2.jar" />
+    </item>
+    <item
+        jar="/home/mt/AndroidStudioProjects/MoboRemote/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/mt/AndroidStudioProjects/MoboRemote/app/build/intermediates/pre-dexed/release/internal_impl-23.0.0-6f1a6c85c899fdb1a8f2e119f97467112ff50b37.jar" />
+    </item>
+    <item
+        jar="/home/mt/AndroidStudioProjects/MoboRemote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/mt/AndroidStudioProjects/MoboRemote/app/build/intermediates/pre-dexed/release/classes-5fede6ce9be3b78a6528bc23e809fd312c239644.jar" />
+    </item>
+
+</items>
